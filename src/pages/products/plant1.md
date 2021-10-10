@@ -6,7 +6,6 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/2980515_e6f0a0fd-e020-4bdf-89c3-82a099f0618a_584_584.webp
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
