@@ -37,6 +37,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: product
+default_thumbnail_image: images/6233954_4af8b107-0d9b-44fd-bb94-8c283c4e1002_1080_1080-9c515d5c.jpg
 ---
 
 # Nulla suscipit
