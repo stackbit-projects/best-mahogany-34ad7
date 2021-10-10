@@ -6,7 +6,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/6233954_4af8b107-0d9b-44fd-bb94-8c283c4e1002_1080_1080.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
